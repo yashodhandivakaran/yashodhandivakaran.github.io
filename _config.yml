@@ -1,7 +1,7 @@
 name: Yashodhan Divakaran
 description: How to materialise your app ?
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://yashodhandivakaran.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 

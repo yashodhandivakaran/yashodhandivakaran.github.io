@@ -3,8 +3,8 @@
 	<channel>
 		<title>Yashodhan Divakaran - Articles</title>
 		<description>How to materialise your app ?</description>
-		<link>http://brianmaierjr.github.com/long-haul</link>
-		<atom:link href="http://brianmaierjr.github.com/long-haul/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<link>http://yashodhandivakaran.github.io/</link>
+		<atom:link href="http://yashodhandivakaran.github.io//feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
@@ -14,8 +14,8 @@
 </description>
 				
 				<pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</guid>
+				<link>http://yashodhandivakaran.github.io//blog/example-post-formatting/</link>
+				<guid isPermaLink="true">http://yashodhandivakaran.github.io//blog/example-post-formatting/</guid>
 			</item>
 			
 		
@@ -27,8 +27,8 @@
 </description>
 				
 				<pubDate>Sun, 14 Dec 2014 00:00:00 +0530</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/featured-image/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/featured-image/</guid>
+				<link>http://yashodhandivakaran.github.io//blog/featured-image/</link>
+				<guid isPermaLink="true">http://yashodhandivakaran.github.io//blog/featured-image/</guid>
 			</item>
 			
 		
@@ -40,8 +40,8 @@
 </description>
 				
 				<pubDate>Sat, 13 Dec 2014 00:00:00 +0530</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/code-snippet/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/code-snippet/</guid>
+				<link>http://yashodhandivakaran.github.io//blog/code-snippet/</link>
+				<guid isPermaLink="true">http://yashodhandivakaran.github.io//blog/code-snippet/</guid>
 			</item>
 			
 		
@@ -53,8 +53,8 @@
 </description>
 				
 				<pubDate>Fri, 12 Dec 2014 00:00:00 +0530</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</guid>
+				<link>http://yashodhandivakaran.github.io//blog/figure-with-caption/</link>
+				<guid isPermaLink="true">http://yashodhandivakaran.github.io//blog/figure-with-caption/</guid>
 			</item>
 			
 		
@@ -66,8 +66,8 @@
 </description>
 				
 				<pubDate>Thu, 11 Dec 2014 00:00:00 +0530</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/image-in-post/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/image-in-post/</guid>
+				<link>http://yashodhandivakaran.github.io//blog/image-in-post/</link>
+				<guid isPermaLink="true">http://yashodhandivakaran.github.io//blog/image-in-post/</guid>
 			</item>
 			
 		
@@ -79,8 +79,8 @@
 </description>
 				
 				<pubDate>Wed, 10 Dec 2014 00:00:00 +0530</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/test-post/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/test-post/</guid>
+				<link>http://yashodhandivakaran.github.io//blog/test-post/</link>
+				<guid isPermaLink="true">http://yashodhandivakaran.github.io//blog/test-post/</guid>
 			</item>
 			
 		
